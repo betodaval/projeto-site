@@ -1,0 +1,15 @@
+/* Configurações gerais */
+
+*{
+	font-family:"Trebuchet MS", verdana, arial, sans-serif;
+	font-size:11px;
+}
+	
+#topoPagina{
+		margin-top: 5px;
+		background-color:#5C3317;
+		height:100px;
+		width:100%;
+		
+		
+}

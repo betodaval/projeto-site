@@ -1,0 +1,8 @@
+/* configurações do conjunto de boxes */
+
+
+#boxHolder{
+		overflow:hidden;
+		width:960px;
+}
+

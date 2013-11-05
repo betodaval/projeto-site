@@ -1,0 +1,22 @@
+/* Configurações gerais */
+
+*{
+	font-family:"Trebuchet MS", verdana, arial, sans-serif;
+	font-size:11px;
+}
+	
+#conteudoGeral{
+		border:0px;
+		margin:0 auto;
+		
+}
+
+body, html{
+	background-color:#FCF8E5;
+	margin:0;
+}
+
+a{
+	color:#fff;
+	text-decoration:none;
+}
