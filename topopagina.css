@@ -1,15 +1,38 @@
-/* Configurações gerais */
+/* Configurações do top */
 
 *{
-	font-family:"Trebuchet MS", verdana, arial, sans-serif;
-	font-size:11px;
+	font-family:"Raleway", Sans-Serif;
+	font-size:14px;
 }
+
+#pequenosIcones{
+	margin-top: 10px;
+	width:960px;
+}
+
 	
 #topoPagina{
 		margin-top: 5px;
 		background-color:#5C3317;
 		height:100px;
 		width:100%;
-		
-		
+}
+
+#topoConteudo{
+	
+		background-color:#5C3317;
+		width:960px;
+}
+
+#logo{
+		float: left;
+		margin-top: 15px;
+}
+
+#links{
+	font-family: Verdana, Geneva, sans-serif;
+	color: #EBE1C6;
+	font-size: 18px;
+	float: right;
+	margin-top: 40px;
 }

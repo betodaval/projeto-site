@@ -5,24 +5,16 @@
 
 @import url('./geral.css');
 
-@import url('./iconesp.css');
+@import url('./cita.css');
+
+@import url('./motto.css');
 
 @import url('./topopagina.css');
-
-@import url('./topoconteudo.css');
-
-@import url('./principal.css');
 
 @import url('./secundario.css');
 
 @import url('./boxholder.css');
 
-@import url('./box.css');
-
 @import url('./fundo.css');
 
 @import url('./rodape.css');
-
-@import url('./logo.css');
-
-@import url('./links.css');

@@ -1,11 +1,9 @@
 /* Configurações gerais */
 
-*{
-	font-family:"Trebuchet MS", verdana, arial, sans-serif;
-	font-size:11px;
-}
+
 	
 #conteudoGeral{
+		font-family:"Raleway", Sans-Serif;
 		border:0px;
 		margin:0 auto;
 		
