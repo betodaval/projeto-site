@@ -19,3 +19,35 @@
 		background-color:#5C3317;
 		width:960px;
 }
+
+.fundoEsquerdo{
+	width:500px;
+	padding-top:10px;
+	color:#dfcea1;
+	
+}
+
+.fundoDireito{
+	width:390px;
+	float:right;
+	padding-top:10px;
+	color:#dfcea1;
+	
+}
+
+h2{
+	font-size:18px;
+	font-family:"Raleway", Sans-Serif;
+	font-weight:normal;
+}
+
+h3{
+	font-size:15px;
+	font-family:"Raleway", Sans-Serif;
+	color:#cc9966;
+	font-weight:normal;
+	
+}
+	
+a:{
+	color:#cc9966;

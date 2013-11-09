@@ -1,8 +1,8 @@
 /* Configurações do fundo */
 
 *{
-	font-family:"Raleway", Sans-Serif;
-	font-size:14px;
+	font-family: "Raleway", Sans-Serif;
+	font-size: 14px;
 }
 	
 #rodapePagina{
@@ -13,7 +13,7 @@
 }
 
 #rodapeConteudo{
-	
-		background-color:#5C3317;
-		width:960px;
+	padding-top:15px;
+	color:#dfcea1;
+	width:960px;
 }
